@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "BDSPORTS", "BDSPORTS\BDSPORTS.sqlproj", "{A3AFA0A7-BFF7-4D47-B879-D6237A1972F8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Databases", "Databases", "{2716689E-7FAB-401B-9FD4-92A56443651D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Librairies", "Librairies", "{E65F0C0A-7859-4C4C-9E7B-72E10F015A2A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Applications", "Applications", "{2807E3CA-7768-40F9-887F-9D003018B2B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3AFA0A7-BFF7-4D47-B879-D6237A1972F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3AFA0A7-BFF7-4D47-B879-D6237A1972F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3AFA0A7-BFF7-4D47-B879-D6237A1972F8}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{A3AFA0A7-BFF7-4D47-B879-D6237A1972F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3AFA0A7-BFF7-4D47-B879-D6237A1972F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3AFA0A7-BFF7-4D47-B879-D6237A1972F8}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A3AFA0A7-BFF7-4D47-B879-D6237A1972F8} = {2716689E-7FAB-401B-9FD4-92A56443651D}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87E8D847-5CAC-40A3-ADAC-9F0E46EBBC8F}
+	EndGlobalSection
+EndGlobal
